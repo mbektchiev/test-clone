@@ -1,0 +1,17 @@
+{
+  "services": {
+    "backend": {
+      
+    },
+    "analytics": {
+      
+    },
+    "feedback": {
+      
+    }
+  },
+  "templateFiles": [
+    "IceTestAppDragon\/index.html",
+    "**\/styles\/*.css"
+  ]
+}
