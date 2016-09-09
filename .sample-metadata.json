@@ -119,12 +119,6 @@
 					"Owner": "$var:UserId_Andy"
 				}]
 			}
-		},
-		"analytics": {
-
-		},
-		"feedback": {
-
 		}
 	},
 	"templateFiles": [
