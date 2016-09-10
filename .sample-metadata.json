@@ -1,6 +1,6 @@
 {
     "services": {
-        "backend": {
+        "backendservices": {
             "AppId": "${AppId}",
             "Templates": [
                 {
