@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Prj2",
+  "ProjectGuid": "37958cb0-2ba4-4bd8-90f1-73e1342c54d9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.IceTestAppDragon2",
+  "DisplayName": "IceTestAppDragon",
+  "Author": "",
+  "Description": "IceTestAppDragon asdfasdf",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{2dfbf137-d710-4475-93d6-7dd4def82101}",
+  "WP8ProductID": "{990a4919-ae0c-4d46-837e-ae8f47ee28af}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.IceTestAppDragon",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
